@@ -1,0 +1,6 @@
+pandas
+keras
+tensorflow
+gdown
+scikit-learn
+# jupyterlab
