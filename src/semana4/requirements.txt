@@ -3,3 +3,5 @@ keras
 tensorflow
 gdown
 scikit-learn
+scikeras
+imblearn
