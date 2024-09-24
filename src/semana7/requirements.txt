@@ -3,4 +3,5 @@ keras
 tensorflow
 gdown
 scikit-learn
-# jupyterlab
+scikeras
+imblearn
